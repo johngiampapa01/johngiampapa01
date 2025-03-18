@@ -1,5 +1,7 @@
 ## Hi there my name is John Giampapa 👋
 
+📫 How to reach me: ...
+
 <!--
 **johngiampapa01/johngiampapa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
