@@ -5,6 +5,10 @@
 ## About Me
 
 I am a recent graduate from Adelphi University with a Bachelors Degree in Computer Science with a Cybersecurity Track. I am always thrilled to learn new skills and apply them to real world applications that can further my experience and understanding.
+
+## Current Objectives
+
+Troughtout my journey learning about Computer Science in college I am particularly interested in Cybersecurity and Data Analytics. I am eager to start my career in either of those fields and show what I learned throughout college and expand my skillset through in-job experience.
 <!--
 **johngiampapa01/johngiampapa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
