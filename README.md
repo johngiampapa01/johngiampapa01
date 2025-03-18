@@ -2,6 +2,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/johngiampapa/?profileId=ACoAAED14CcBhftTgQZR2oUXFaiNbsGfeJ4buV4)
 
+## About Me
+
 <!--
 **johngiampapa01/johngiampapa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
