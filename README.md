@@ -13,8 +13,8 @@ Troughtout my journey learning about Computer Science in college I am particular
 ## Projects
 The first major project I worked on was Tech Talk Hub with contributions from Joseph Kiesche and Devin Szpilka. This project was a forum website for users to connect and talk about all things tech. The features included Create account, Login, Forum posts, comments, filters, User profiles and an admin account that could delete forums and user accounts. [Project Code](https://github.com/johngiampapa01/CSC-440-Project-public)
 
-The second major project I worked on was PartyPal with contributions from Joseph Kiesche and Devin Szpilka. This project was a looking for group website which allowed gamers from supported games find groups to play with. The features included Create account, login, Forum posts, Group messaging, Friends list, Profile, Admin privileges and an about us and FAQ section. [Project Code](https://github.com/JoeKiesche/CSC-482-Final-Project)
-<!--
+The second major project I worked on was PartyPal with contributions from Joseph Kiesche and Devin Szpilka. This project was a looking for group website which allowed gamers from supported games find groups to play with. The features included Create account, login, Forum posts, Group messaging, Friends list, Profile, Admin privileges and an about us and FAQ section. [Project Code](https://github.com/JoeKiesche/CSC-482-Final-Project) [UserManual](https://github.com/user-attachments/files/19321731/Repo%2BTestInfo.pdf)
+
 **johngiampapa01/johngiampapa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
