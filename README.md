@@ -9,6 +9,9 @@ I am a recent graduate from Adelphi University with a Bachelors Degree in Comput
 ## Current Objectives
 
 Troughtout my journey learning about Computer Science in college I am particularly interested in Cybersecurity and Data Analytics. I am eager to start my career in either of those fields and show what I learned throughout college and expand my skillset through in-job experience.
+
+## Projects
+The first major project I worked on was Tech Talk Hub with contributions from Joseph Kiesche and Devin Szpilka. This project was
 <!--
 **johngiampapa01/johngiampapa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
