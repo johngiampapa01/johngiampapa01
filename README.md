@@ -4,6 +4,7 @@
 
 ## About Me
 
+I am a recent graduate from Adelphi University with a Bachelors Degree in Computer Science with a Cybersecurity Track.
 <!--
 **johngiampapa01/johngiampapa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
