@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a recent graduate from Adelphi University with a Bachelors Degree in Computer Science with a Cybersecurity Track. Learning new skills and applying them to real world applicaitons is my main interest.
+I am a recent graduate from Adelphi University with a Bachelors Degree in Computer Science with a Cybersecurity Track. I am always thrilled to learn new skills and apply them to real world applications that can further my experience and understanding.
 <!--
 **johngiampapa01/johngiampapa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
